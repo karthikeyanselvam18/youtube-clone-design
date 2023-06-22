@@ -54,7 +54,7 @@
   }
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 2000px) {
   .video-grid {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
